@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN,cloudcode-pa.googleapis.com,PROXY
+DOMAIN,antigravity-unleash.goog,PROXY
+DOMAIN-SUFFIX,antigravity.google,PROXY
