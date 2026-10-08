@@ -552,6 +552,11 @@ DOMAIN-SUFFIX,wwwmfacebook.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 IP-CIDR,108.168.176.192/26,no-resolve
